@@ -18,19 +18,5 @@
             android:gravity="start"
             android:text="Button_1"
             />
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/btn_2"
-            android:gravity="center"
-            android:text="Button_2"
-            />
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/btn_3"
-            android:text="Button_3"
-            android:gravity="end"
-            />
     </LinearLayout>
 </FrameLayout>
