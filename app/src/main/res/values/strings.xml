@@ -12,4 +12,7 @@
     <string name="login_register_success">Успешно!</string>
     <string name="login_register_error">Логин уже занят!</string>
     <string name="input_error">Неверный логин или пароль!</string>
+    <string name="logout">Выход</string>
+    <string name="settings">Настройки</string>
+    <string name="search">Поиск</string>
 </resources>
